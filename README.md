@@ -1,2 +1,0 @@
-# crudtastic
-Begin app
